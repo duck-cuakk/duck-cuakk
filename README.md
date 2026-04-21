@@ -1,6 +1,6 @@
-## 🌟 My Profile
-
 ![badge](https://pin.it/5orp74ljR)
+
+
 
 <!--
 **duck-cuakk/duck-cuakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
